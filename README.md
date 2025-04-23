@@ -48,7 +48,9 @@ Whether you're a student, researcher, data analyst, or just curious, this tool h
 - pip
 
 ### 📦 Install Dependencies
-
 pip install streamlit
+
+# Run the app
+streamlit run app.py
 
 
